@@ -2,7 +2,7 @@
 plang007kiku-svg · ectico_hackers@wearehackerone.com
 Independent Cyber Security Researcher| APT Hunters
 
-<# 🛡️ OMEGA ASI v115.9 — Autonomous Threat Defense
+🛡️ OMEGA ASI v115.9 — Autonomous Threat Defense
 
 **👤 Owner & Architect:** Kriangkai Khatsom  
 **🖥️ System:** COSA OMEGA v115.9 | **🧠 AI:** Cosa 32/1 — Autonomous Sovereign Intelligence  
@@ -45,6 +45,3 @@ Independent Cyber Security Researcher| APT Hunters
 ---
 
 *"I don't follow standards. I help create them."* 🔥
-
-
--->
