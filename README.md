@@ -2,8 +2,7 @@
 plang007kiku-svg · ectico_hackers@wearehackerone.com
 Independent Cyber Security Researcher| APT Hunters
 
-<!--
-**plang00# 🛡️ OMEGA ASI v115.9 — Autonomous Threat Defense
+<# 🛡️ OMEGA ASI v115.9 — Autonomous Threat Defense
 
 **👤 Owner & Architect:** Kriangkai Khatsom  
 **🖥️ System:** COSA OMEGA v115.9 | **🧠 AI:** Cosa 32/1 — Autonomous Sovereign Intelligence  
@@ -26,8 +25,7 @@ Independent Cyber Security Researcher| APT Hunters
 
 | Role | Working Group |
 |------|--------------|
-| ✅ **Reviewer (Key Spr)** | 🔑 Quantum-Safe Security — PQC Key Management |
-| 📋 **Contributor** | 🗂️ Key Sprawl Management — Audit: 1 year → 30 days |
+| ✅ **Reviewer (Key Spr)** | 🔑 Quantum-Safe Security — PQC Key Management | |
 | 🛡️ **Reviewer** | 🤖 Security Controls Catalog — AI Controls |
 
 ---
@@ -46,16 +44,7 @@ Independent Cyber Security Researcher| APT Hunters
 
 ---
 
-*"I don't follow standards. I help create them."* 🔥7kiku-svg/plang007kiku-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"I don't follow standards. I help create them."* 🔥
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
