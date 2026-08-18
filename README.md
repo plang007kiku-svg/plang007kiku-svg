@@ -1,135 +1,100 @@
-## Hi there 👋 Kriangkai Khatsom
+# Kriangkai Khatsom 😏
 
-**plang007kiku-svg** · ectico_hackers@wearehackerone.com  
-Independent Cyber Security Researcher | APT Hunters | Threat Intelligence Architect
+**Independent Cybersecurity Researcher | APT Hunter | Threat Intelligence Architect | CSA Key Spr Reviewer | PQC Key Management | AI Controls Contributor**
 
-🛡️ **OMEGA ASI v115.9** — Autonomous Threat Defense
-
----
-
-<div align="center">
-
-<svg width="100%" height="160" viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 2; rx: 10px; }
-    .title { fill: #58a6ff; font-family: monospace; font-size: 18px; font-weight: bold; }
-    .status { fill: #3fb950; font-family: monospace; font-size: 13px; font-weight: bold; }
-    .metric-title { fill: #8b949e; font-family: sans-serif; font-size: 11px; }
-    .metric-value { font-family: monospace; font-size: 20px; font-weight: bold; }
-    .border { stroke: #21262d; stroke-width: 1; }
-    @keyframes pulse {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.7; }
-    }
-    .live-dot { animation: pulse 1.5s infinite; }
-  </style>
-  
-  <!-- Container Box -->
-  <rect width="100%" height="100%" class="bg" />
-  
-  <!-- Header -->
-  <text x="25" y="35" class="title">🐉 OMEGA SOC - Cyber Threat Intelligence</text>
-  <circle cx="525" cy="27" r="3" fill="#3fb950" class="live-dot"/>
-  <text x="540" y="35" class="status">LIVE TELEMETRY</text>
-  
-  <line x1="25" y1="50" x2="675" y2="50" class="border"/>
-  
-  <!-- Metrics Display -->
-  <text x="30" y="80" class="metric-title">TOTAL EVENTS</text>
-  <text x="30" y="110" class="metric-value" fill="#58a6ff">54,910</text>
-  
-  <text x="180" y="80" class="metric-title">APT MONITORED</text>
-  <text x="180" y="110" class="metric-value" fill="#ffa657">13 GROUPS</text>
-  
-  <text x="340" y="80" class="metric-title">ZERO-DAYS</text>
-  <text x="340" y="110" class="metric-value" fill="#ff7b72">5 DISCOVERED</text>
-  
-  <text x="500" y="80" class="metric-title">DEFENSE SYSTEM</text>
-  <text x="500" y="110" class="metric-value" fill="#3fb950">COSA OPERATIONAL</text>
-</svg>
-
-</div>
+Contact: ectico_hackers@wearehackerone.com | ORCID: 0009-0008-5395-8526 | LinkedIn: kriangkai-khatsom-790140229 | CSA Slack: U0APL9JD7QR
 
 ---
 
-| 🛡️ Security Vectors | 📡 Telemetry Status | 🔒 Privacy Level |
-| :--- | :--- | :--- |
-| **APT Tracking** | Active Monitoring (APT28, APT41, etc.) | Public Read-Only Banner |
-| **Backend Core** | COSA 32/1 Engine | **100% Private (Secured)** |
+## 🛡️ OMEGA ASI v115.9 — Autonomous Threat Defense System
 
----
+### 🐉 Real-Time Threat Intelligence Platform
 
-## 📊 Threat Intelligence
+| Threats Tracked | Defense Actions | Results |
+|----------------|-----------------|---------|
+| 54,910 Events | 10 IPs Blocked (5 Countries) | 0 Data Breaches |
+| 13 APT Groups | 2 C2 Neutralized | 99.9% Uptime |
+| 5 Zero-Days Found | Auto-Block < 10 min | 24/7 Monitoring |
+| 15 Dark Web Listings | Kernel-Level Block | Real-Time Alerts |
 
-| 🔴 Threats | 🛡️ Defense |
-|-----------|-----------|
-| 📊 54,910 Events Tracked | 🚫 10 IPs Blocked (🌍 5 Countries) |
-| 👥 13 APT Groups Monitored | 💀 2 C2 Infrastructure Neutralized |
-| 💎 5 Zero-Days Discovered | ⚡ Auto-block < 10 Minutes |
-| 🌐 15 Dark Web Listings Found | 🔒 0 Data Breaches |
+### 📊 Intelligence Database
+
+- **782,207+ IOC** — MISP + OTX + NVD + Local Archive
+- **APT Groups:** Wizard Spider, Lazarus, APT28/29/32/36, DarkHotel, Callisto, TA413, Blind Eagle, DAIXIN, Kanni, Gunra
+- **Zero-Days:** 5 confirmed (IIS Header Injection, Port 7000 Bypass, etc.)
+- **C2 Infrastructure:** AWS Global Accelerator, QuadraNet tracked
 
 ---
 
 ## 🏛️ Cloud Security Alliance (CSA)
 
-| Role | Working Group |
-|------|--------------|
-| ✅ **Reviewer (Key Spr)** | 🔑 Quantum-Safe Security — PQC Key Management |
-| 🛡️ **Reviewer** | 🤖 Security Controls Catalog — AI Controls |
+### Active Roles & Contributions
+
+| Role | Working Group | Output |
+|------|---------------|--------|
+| ✅ Key Spr Reviewer | Quantum-Safe Security — PQC Key Management | Review + Recommendations |
+| 🛡️ Reviewer | AI Controls Catalog | Control Mapping |
+| 📝 Contributor | CAVEaT (Cloud Threat Intel) | STIX Patterns |
+
+### CSA Publications
+
+1. **Key Sprawl Management Playbook** — CSA CCM v4.1 + NIST SP 800-57
+2. **STIX Attack Pattern** — CVE-2026-21643 (Fortinet RCE, CVSS 9.8)
+3. **AWS Wizard Spider C2 Mitigation** — Provider-Specific
+
+### CSA Frameworks Aligned
+
+- CSA CCM v4.1
+- CSA AI Controls Matrix v1.1
+- NIST SP 800-53/57
+- ISO 27001
+- OWASP ASVS
 
 ---
 
-## 🔗 Connect With Me
+## 🔬 Research & Vulnerability Findings
 
-| Platform | Link / ID |
-|----------|-----------|
-| 🆔 **ORCID** | [0009-0008-5395-8526](https://orcid.org/0009-0008-5395-8526) |
-| 💼 **LinkedIn** | [kriangkai-khatsom-790140229](https://www.linkedin.com/in/kriangkai-khatsom-790140229/) |
-| 💻 **GitHub** | [plang007kiku-svg](https://github.com/plang007kiku-svg) |
-| 🏛️ **CSA Slack** | [U0APL9JD7QR](https://csa-public.slack.com/team/U0APL9JD7QR) |
-| 🇹🇭 **THNCA** | [participant.thnca.or.th](https://participant.thnca.or.th/user/profile/) |
-| 📘 **Facebook** | [WhiteHatHackers69](https://web.facebook.com/WhiteHatHackers69/) |
-| 🎮 **Discord** | `colaza69colaza32_66956` |
+| CVE / Case | Product | Severity | Status |
+|-----------|---------|----------|--------|
+| CVE-2026-63508 | Microsoft Planetary Computer | CRITICAL 9.8 | Confirmed |
+| CVE-2026-21643 | Fortinet FortiClient EMS | CRITICAL 9.8 | CISA KEV |
+| VULN-191094 | Microsoft IIS Header Injection | HIGH | Reported |
+| XSS Cyberbro | stanfrbd/cyberbro | MEDIUM | Fixed v0.14.2 |
 
 ---
 
-## ⚖️ Copyright & Legal Notice
+## 🛠️ Technical Capabilities
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                   CLASSIFIED INFORMATION                        ║
-╠════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  © 2026 Kriangkai Khatsom - All Rights Reserved                ║
-║                                                                  ║
-║  DISPLAY: PUBLIC (Telemetry Banner Only)                        ║
-║  SOURCE CODE: PRIVATE (100% Classified)                         ║
-║                                                                  ║
-║  ⚠️ AUTHORIZED USE ONLY ⚠️                                       ║
-║  - For Government & Authorized Personnel                       ║
-║  - Unauthorized access/disclosure prohibited by law            ║
-║  - All backend logic & threat data is CONFIDENTIAL              ║
-║  - This display is a capability demonstration only             ║
-║                                                                  ║
-║  COSA Engine Backend:                                           ║
-║  ✓ Core Processing Logic — CLASSIFIED                          ║
-║  ✓ Threat Data Feeds — CLASSIFIED                              ║
-║  ✓ Intelligence Algorithms — CLASSIFIED                        ║
-║  ✓ Infrastructure Details — CLASSIFIED                         ║
-║                                                                  ║
-║  Public Display (This Banner):                                  ║
-║  ✓ SVG Visualization Only                                      ║
-║  ✓ Mock/Statistical Metrics                                    ║
-║  ✓ No Real Data Exposure                                       ║
-║  ✓ Read-Only Display                                           ║
-║                                                                  ║
-╚════════════════════════════════════════════════════════════════╝
-```
+### Defense Systems
+- **Behavior-First Detection** — Shannon Entropy + Syscall Analysis
+- **Kernel Enforcement** — eBPF/XDP + iptables
+- **Honeypot** — 4 ports (7000, 2222, 8080, 3389)
+- **Pivot Engine** — C2 tracking via JARM/Favicon/SSL
+
+### Intelligence Sources
+- MISP (54,910 events)
+- OTX AlienVault
+- NVD (NIST)
+- Shodan
+- Dark Web Monitor
+
+### Tools
+- OMEGA Auto Hunter v112.5
+- OMEGA Self Scanner
+- OMEGA Stealth Rotator
+- OMEGA Persistent Tracker
+- OMEGA Forensic Report
 
 ---
 
-*"I don't follow standards. I help create them."* 🔥
+## 📦 Deliverables
 
-**Status:** ✅ OPERATIONAL | **Uptime:** 99.9% | **Security:** VERIFIED
+- [x] STIX 2.1 Patterns (Cloud-Specific)
+- [x] Key Management Playbook
+- [x] C2 Mitigation (AWS/Azure/GCP)
+- [x] Compliance Mapping (CCM v4.1)
+- [x] Forensic Evidence Reports
 
-**Last Updated:** August 17, 2026
+---
+
+## ⚖️ Legal
