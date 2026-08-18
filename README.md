@@ -98,3 +98,14 @@ Contact: ectico_hackers@wearehackerone.com | ORCID: 0009-0008-5395-8526 | Linked
 ---
 
 ## ⚖️ Legal
+## 🎓 Government Certifications (Thailand OCSC)
+
+1. **ความมั่นคงปลอดภัยบนอินเทอร์เน็ตและการปฏิบัติตน สำหรับข้าราชการยุคดิจิทัล**
+   - Internet Security & Digital Practices
+   - สำนักงาน ก.พ. (Office of the Civil Service Commission)
+   - June 6, 2026 | 4 hours
+
+2. **ความรู้เกี่ยวกับการดำเนินคดีอาชญากรรมทางเทคโนโลยี**
+   - Knowledge of Cybercrime Prosecution
+   - สำนักงาน ก.พ. (OCSC)
+   - June 4, 2026 | 5 hours
